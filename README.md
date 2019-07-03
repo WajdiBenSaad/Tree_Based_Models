@@ -1,9 +1,12 @@
 # Tree Based Models :
 
-1- Decision Trees
 
-2- Random Forests
+## 1- Decision Trees:
 
-3- GBM and XGBoost
+[Scikit learn documentation about decision trees : the theory behind the code](https://scikit-learn.org/stable/modules/tree.html)
 
-4- ExtraTreee
+## 2- Random Forests
+
+## 3- GBM and XGBoost
+
+## 4- ExtraTreee
